@@ -91,7 +91,7 @@ What are the best running shoes in 2025?,2,1,1,0,0
 - Add UI for prompt input and visualization dashboard
 
 
-## Stage 2: Mentions API
+## 🟦 Stage 2: Mentions API
 
 ### Overview
 
@@ -105,19 +105,19 @@ Two endpoints are implemented:
 
 ### Setup
 
-#### 1:Install dependencies**
+1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-#### 2:Set up environment variables**
+2. **Set up environment variables**
    Create a `.env` file in the `stage2_api/` directory and add your Supabase DB connection string:
 
    ```
    DB_URL=postgresql://postgres:<your-password>@<your-project-ref>.supabase.co:5432/postgres
    ```
 
-#### 2:Create the database table (run once in Supabase SQL Editor)**
+3. **Create the database table (run once in Supabase SQL Editor)**
    ```sql
    create table prompt_results (
      id serial primary key,
