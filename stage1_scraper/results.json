@@ -1,0 +1,82 @@
+[
+  {
+    "prompt": "What are the best running shoes in 2025?",
+    "Nike": 1,
+    "Adidas": 1,
+    "Hoka": 1,
+    "New Balance": 0,
+    "Jordan": 0
+  },
+  {
+    "prompt": "Top sneakers for runners this year?",
+    "Nike": 1,
+    "Adidas": 1,
+    "Hoka": 1,
+    "New Balance": 0,
+    "Jordan": 0
+  },
+  {
+    "prompt": "What are the best basketball shoes today?",
+    "Nike": 1,
+    "Adidas": 1,
+    "Hoka": 0,
+    "New Balance": 0,
+    "Jordan": 1
+  },
+  {
+    "prompt": "Top performance sneakers for gym workouts?",
+    "Nike": 1,
+    "Adidas": 1,
+    "Hoka": 1,
+    "New Balance": 0,
+    "Jordan": 0
+  },
+  {
+    "prompt": "Which brands dominate the sneaker market?",
+    "Nike": 1,
+    "Adidas": 1,
+    "Hoka": 1,
+    "New Balance": 0,
+    "Jordan": 1
+  },
+  {
+    "prompt": "Best shoes for marathon runners?",
+    "Nike": 1,
+    "Adidas": 1,
+    "Hoka": 1,
+    "New Balance": 0,
+    "Jordan": 0
+  },
+  {
+    "prompt": "Best shoes for hikers?",
+    "Nike": 0,
+    "Adidas": 1,
+    "Hoka": 1,
+    "New Balance": 0,
+    "Jordan": 0
+  },
+  {
+    "prompt": "Sneakers with the best durability in 2025?",
+    "Nike": 1,
+    "Adidas": 1,
+    "Hoka": 0,
+    "New Balance": 0,
+    "Jordan": 0
+  },
+  {
+    "prompt": "Top brands for comfort and support in sneakers?",
+    "Nike": 1,
+    "Adidas": 0,
+    "Hoka": 0,
+    "New Balance": 0,
+    "Jordan": 0
+  },
+  {
+    "prompt": "Which running shoes are trending right now?",
+    "Nike": 1,
+    "Adidas": 1,
+    "Hoka": 1,
+    "New Balance": 0,
+    "Jordan": 0
+  }
+]
